@@ -33,5 +33,5 @@ This web application is built using the **MERN Stack**:
 Forking, cloning, or redistributing this project is NOT permitted without explicit permission.
 
 ---
-Developed with ❤️ by the Chameleon Tech Team 🌎🌱
+Developed with ❤️ by the Chameleon Tech Team 🌎🌱<br>
 Copyright (c) 2025 Chameleon Tech
