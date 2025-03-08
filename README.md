@@ -27,6 +27,17 @@ This web application is built using the **MERN Stack**:
 - `GET /api/dashboard` - Fetch user dashboard data, only accessed by the admin based on predefined password
 - `POST /api/form` - Sending user data
 
+## 🖼️ App Screenshots
+
+### Home Page
+![Home Page](https://github.com/L-YS-Ayoussef/EcoMentor/blob/master/Screenshot1.png)
+
+### Form Page
+![Form Page](https://github.com/L-YS-Ayoussef/EcoMentor/blob/master/Screenshot2.png)
+
+### Dashboard Page
+![Dashboard Page](https://github.com/L-YS-Ayoussef/EcoMentor/blob/master/Screenshot3.png)
+
 ## 📜 License
 
 ⚠️ **Important Notice**: This repository is publicly available for viewing only. 
