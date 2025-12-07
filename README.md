@@ -45,4 +45,4 @@ Forking, cloning, or redistributing this project is NOT permitted without explic
 
 ---
 Developed with ❤️ by the Chameleon Tech Team 🌎🌱<br>
-Copyright (c) 2025 Chameleon Tech
+**Copyright (c) 2024 Chameleon Tech**
