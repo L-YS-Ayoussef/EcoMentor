@@ -30,13 +30,13 @@ This web application is built using the **MERN Stack**:
 ## 🖼️ App Screenshots
 
 ### Home Page
-![Home Page](https://github.com/L-YS-Ayoussef/EcoMentor/blob/master/Screenshot1.png)
+![Home Page](Screenshots/Screenshot1.png)
 
 ### Form Page
-![Form Page](https://github.com/L-YS-Ayoussef/EcoMentor/blob/master/Screenshot2.png)
+![Form Page](Screenshots/Screenshot2.png)
 
 ### Dashboard Page
-![Dashboard Page](https://github.com/L-YS-Ayoussef/EcoMentor/blob/master/Screenshot3.png)
+![Dashboard Page](Screenshots/Screenshot3.png)
 
 ## 📜 License
 
